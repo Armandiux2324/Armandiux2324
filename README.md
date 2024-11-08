@@ -21,9 +21,7 @@ Here are some of my favorite projects that showcase my skills and interests:
   An scholar proyect using OpenStreetMap API
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armandiux2324&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Armandiux2324&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armandiux2324&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Armandiux2324&layout=compact&theme=radical)
 
 ## 💡 Contact:
 - [Instagram](https://www.instagram.com/armandiux.2005/profilecard/?igsh=emRzdjZuam0xOGpw)
