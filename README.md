@@ -8,6 +8,18 @@ I'm a UTZAC software development student with a passion for building innovative 
 - **Tools**: Git, VS Code
 - **Currently Learning**: Cloud Development, DevOps Practices
 
+## 🌟 Featured Projects
+Here are some of my favorite projects that showcase my skills and interests:
+
+- **[Classcheck Web](https://github.com/Armandiux2324/classcheck_web.git)**  
+  This project is a web version of an application designed to streamline attendance registration using QR codes. The aim is to enhance classroom efficiency by allowing students to scan a unique QR code for each class, rather than conducting manual attendance checks by the teacher.
+
+- **[HitClone App](https://github.com/Armandiux2324/HitClone-App.git)**  
+  This one is an Ionic-Angular App, designed to scan QR codes from HitClone Card Generator, custom cards from Hitster card game.
+
+- **[Nautiteq](https://github.com/Sunwearshade/Nautiteq.git)**  
+  An scholar proyect using OpenStreetMap API
+
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armandiux2324&show_icons=true&theme=radical)
 
