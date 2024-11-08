@@ -6,7 +6,7 @@ I'm a UTZAC software development student with a passion for building innovative 
 - **Languages**: JavaScript, TypeScript, Python, PHP, C++
 - **Frameworks & Libraries**: Ionic Angular
 - **Tools**: Git, VS Code
-- **Currently Learning**: Cloud Development, DevOps Practices
+- **Currently Learning**: Web Development, Responsive Apps Design
 
 ## 🌟 Featured Projects
 Here are some of my favorite projects that showcase my skills and interests:
