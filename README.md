@@ -1,4 +1,4 @@
-## Hi there, I'm Armando Candelas!
+## Hi there 👋, I'm Armando Candelas!
 
 I'm a UTZAC software development student with a passion for building innovative and efficient solutions. Here on GitHub, you'll find projects and code I've worked on during my studies and personal learning journey. I'm continuously learning and applying new skills to become a renowned developer!
 
@@ -15,6 +15,5 @@ I'm a UTZAC software development student with a passion for building innovative 
 
 ## 💡 Contact:
 - [Instagram](https://www.instagram.com/armandiux.2005/profilecard/?igsh=emRzdjZuam0xOGpw)
-- [Gmail](armanditojr2005@gmail.com)
 
 Thanks for visiting my profile, and feel free to reach out!
