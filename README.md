@@ -76,11 +76,14 @@ A mobile application designed to help users navigate public transportation route
 
 ## 📊 GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armandiux2324&theme=radical)
+<div align="center">
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Armandiux2324&theme=radical)
+<img src="https://streak-stats.demolab.com?user=Armandiux2324&theme=radical" height="180em"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Armandiux2324&layout=compact&theme=radical&cache_seconds=1800)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Armandiux2324&theme=radical" height="180em" />
+
+</div>
 
 ---
 
