@@ -67,6 +67,7 @@ The frontend was developed with Angular, while the backend uses Express.js and J
 ## Bus Guide Mobile Application 
 [Frontend](https://github.com/Armandiux2324/BusGuideFrontend.git) • 
 [Backend](https://github.com/Armandiux2324/BusGuideBackend.git)
+
 A mobile application designed to help users navigate public transportation routes and bus information in a more accessible way. The frontend was developed with Ionic Angular, while the backend and content management were handled using Strapi.
 
 **Tech Stack:** Ionic Angular, Strapi, TypeScript
@@ -75,8 +76,7 @@ A mobile application designed to help users navigate public transportation route
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armandiux2324&show_icons=true&theme=radical)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armandiux2324&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Armandiux2324&layout=compact&theme=radical)
 
 ---
